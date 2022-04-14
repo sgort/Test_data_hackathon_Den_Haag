@@ -4,6 +4,7 @@ Bevat testgevallen voor Individuele Inkomenstoeslag zoals gespecificeerd voor de
 
 De testgevallen specificeren de volgende attributen:
 - woonplaats
+- geboortedatum **deze is toegevoegd om waar nodig en/of mogelijk elders de oawLeetijdBehaald en ouderDan21 af te leiden**
 - oawLeeftijdBehaald
 - ouderDan21
 - thuiswonendeKinderen
