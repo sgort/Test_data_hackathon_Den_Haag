@@ -23,3 +23,9 @@ De set bevat óók afwijkende testgevallen:
 
 - waar een waarde ontbreekt is deze geen onderdeel van de criteria voor recht beschrijving
 - waar een waarde "N/A" is deze bedoeld een test te zijn voor incomplete informatie, allen bedoeld voor Recht beschrijving 01.
+
+## Postman
+
+Directe [link](https://vil-regels.nl:8443/engine-rest/decision-definition/key/Decision_18qw2e6/evaluate) voor Postman tests.
+
+Voor testen is Basic Auth met bekende credentials nodig.
