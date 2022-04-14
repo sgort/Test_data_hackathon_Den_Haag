@@ -32,16 +32,37 @@ Voor testen is Basic Auth met bekende credentials nodig.
 
 Body...
 
-`
+```
 {
-  "variables" : {
-    "Woonplaats" : { "value" : "Utrecht", "type" : "String" },
-    "aowLeeftijdBehaald" : { "value" : false, "type" : "Boolean" },
-    "ouderDan21" : { "value" : true, "type" : "Boolean" },
-    "alleenstaande" : { "value" : true, "type" : "Boolean" },
-    "thuiswonendeKinderen" : { "value" : true, "type" : "Boolean"},
-    "inkomenPerMaand" : { "value" : "1200", "type" : "Integer" },
-    "vermogen" : { "value" : "10000", "type" : "Integer" }
-  }
+    "variables": {
+        "Woonplaats": {
+            "value": "Utrecht",
+            "type": "String"
+        },
+        "aowLeeftijdBehaald": {
+            "value": false,
+            "type": "Boolean"
+        },
+        "ouderDan21": {
+            "value": true,
+            "type": "Boolean"
+        },
+        "alleenstaande": {
+            "value": true,
+            "type": "Boolean"
+        },
+        "thuiswonendeKinderen": {
+            "value": true,
+            "type": "Boolean"
+        },
+        "inkomenPerMaand": {
+            "value": "1200",
+            "type": "Integer"
+        },
+        "vermogen": {
+            "value": "10000",
+            "type": "Integer"
+        }
+    }
 }
-`
+```
