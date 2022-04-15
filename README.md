@@ -26,7 +26,10 @@ De set bevat óók afwijkende testgevallen:
 
 ## Uitbreiding test data met partners
 
-Aan de test data is een partner set toegevoegd, herkenbaar aan: `"test": "Recht beschrijving 03 - partner 1/2 van 2"`
+Aan de test data is een partner set toegevoegd, herkenbaar aan:
+- `"test": "Recht beschrijving 03.1 - partner 1/2 van 2"` beide partners vullen eigen inkomen en vermogen in.
+- `"test": "Recht beschrijving 03.2 - partner 1/2 van 2"` partner 1 vult verzamelinkomen en -vermogen in dat geldt voor beide partners samen.
+
 
 ## Postman
 

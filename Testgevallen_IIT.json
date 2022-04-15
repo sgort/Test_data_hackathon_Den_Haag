@@ -40,7 +40,7 @@
   },
   [
     {
-      "test": "Recht beschrijving 03 - partner 1 van 2",
+      "test": "Recht beschrijving 03.1 - partner 1 van 2",
       "woonplaats": "Utrecht",
       "geboortedatum": "1-1-1968",
       "aowLeeftijdBehaald": "FALSE",
@@ -53,7 +53,7 @@
       "postmanCheck": "TRUE"
     },
     {
-      "test": "Recht beschrijving 03 - partner 2 van 2",
+      "test": "Recht beschrijving 03.1 - partner 2 van 2",
       "woonplaats": "Utrecht",
       "geboortedatum": "6-6-1967",
       "aowLeeftijdBehaald": "FALSE",
@@ -62,6 +62,34 @@
       "thuiswonendeKinderen": "TRUE",
       "inkomenPerMaand": 800,
       "vermogen": 11000,
+      "recht": 591,
+      "postmanCheck": "TRUE"
+    }
+  ],
+  [
+    {
+      "test": "Recht beschrijving 03.2 - partner 1 van 2",
+      "woonplaats": "Utrecht",
+      "geboortedatum": "1-1-1968",
+      "aowLeeftijdBehaald": "FALSE",
+      "ouderDan21": "TRUE",
+      "alleenstaande": "FALSE",
+      "thuiswonendeKinderen": "TRUE",
+      "inkomenPerMaand": 1200,
+      "vermogen": 12000,
+      "recht": 591,
+      "postmanCheck": "TRUE"
+    },
+    {
+      "test": "Recht beschrijving 03.2 - partner 2 van 2",
+      "woonplaats": "Utrecht",
+      "geboortedatum": "6-6-1967",
+      "aowLeeftijdBehaald": "FALSE",
+      "ouderDan21": "TRUE",
+      "alleenstaande": "FALSE",
+      "thuiswonendeKinderen": "TRUE",
+      "inkomenPerMaand": 0,
+      "vermogen": 0,
       "recht": 591,
       "postmanCheck": "TRUE"
     }
