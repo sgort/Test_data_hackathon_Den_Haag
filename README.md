@@ -4,7 +4,7 @@ Bevat testgevallen voor Individuele Inkomenstoeslag zoals gespecificeerd voor de
 
 De testgevallen specificeren de volgende attributen:
 - woonplaats
-- geboortedatum **deze is toegevoegd om waar nodig en/of mogelijk elders de oawLeetijdBehaald en ouderDan21 af te leiden**
+- geboortedatum *deze is toegevoegd om waar nodig en/of mogelijk elders de oawLeetijdBehaald en ouderDan21 af te leiden*
 - oawLeeftijdBehaald
 - ouderDan21
 - thuiswonendeKinderen
@@ -23,6 +23,10 @@ De set bevat óók afwijkende testgevallen:
 
 - waar een waarde ontbreekt is deze geen onderdeel van de criteria voor recht beschrijving
 - waar een waarde "N/A" is deze bedoeld een test te zijn voor incomplete informatie, allen bedoeld voor Recht beschrijving 01.
+
+## Uitbreiding partner set
+
+Aan de test data is een partner set toegevoegd, herkenbaar aan: `"test": "Recht beschrijving 03 - partner 1/2 van 2"`
 
 ## Postman
 
