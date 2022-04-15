@@ -38,6 +38,34 @@
     "recht": 591,
     "postmanCheck": "TRUE"
   },
+  [
+    {
+      "test": "Recht beschrijving 03 - partner 1 van 2",
+      "woonplaats": "Utrecht",
+      "geboortedatum": "1-1-1968",
+      "aowLeeftijdBehaald": "FALSE",
+      "ouderDan21": "TRUE",
+      "alleenstaande": "FALSE",
+      "thuiswonendeKinderen": "TRUE",
+      "inkomenPerMaand": 400,
+      "vermogen": 1000,
+      "recht": 591,
+      "postmanCheck": "TRUE"
+    },
+    {
+      "test": "Recht beschrijving 03 - partner 2 van 2",
+      "woonplaats": "Utrecht",
+      "geboortedatum": "6-6-1967",
+      "aowLeeftijdBehaald": "FALSE",
+      "ouderDan21": "TRUE",
+      "alleenstaande": "FALSE",
+      "thuiswonendeKinderen": "TRUE",
+      "inkomenPerMaand": 800,
+      "vermogen": 11000,
+      "recht": 591,
+      "postmanCheck": "TRUE"
+    }
+  ],
   {
     "test": "Recht beschrijving 04",
     "woonplaats": "Utrecht",
